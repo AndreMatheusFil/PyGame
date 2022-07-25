@@ -21,6 +21,8 @@ mover_mouseY = 0
 backX = 0
 backY = 0
 
+
+
 player1 = pygame.image.load('sword.png')
 
 background = pygame.image.load('Mapa.jpeg')
